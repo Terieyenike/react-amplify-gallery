@@ -19,7 +19,7 @@ const Footer = () => {
                     </Flex>
                 </View>
                 <Badge>
-                    <Link href="https://github.com" isExternal={true}>
+                    <Link href="https://github.com/Terieyenike/react-amplify-gallery" isExternal={true}>
                         GitHub
                     </Link>
                 </Badge>
