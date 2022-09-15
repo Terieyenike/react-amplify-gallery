@@ -1,4 +1,4 @@
-export const categories =[
+export const categories = [
     {
         image: "https://res.cloudinary.com/terieyenike/image/upload/v1662646813/amplify/lerone-pieters-2-oqD5ve6Zs-unsplash.jpg",
         id: 1,
